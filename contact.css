@@ -1,0 +1,97 @@
+
+.container {
+    position: relative;
+    left:25px;
+    top: 50px;
+        width: 900px; /* set your desired width */
+        height: 300px; /* set your desired height */
+       
+       border-radius: 10px;
+        background-color: rgb(89, 85, 85);
+        box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    }
+    .container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+        opacity: 0.8;
+    }
+    .container h1{
+        text-align: left;
+        position: absolute;
+        top: 5%;
+        left: 2%;
+  opacity: 1;
+
+  z-index: 2;
+    }
+    .container h2{
+        font-size: 20px;
+    }
+     .container h2.insta{
+       
+        
+        
+    
+        position: absolute;
+                top: 35%;
+                left: 9%;
+          opacity: 1;
+       
+          z-index: 2;
+    }
+    .container h2.email{
+       
+       
+        
+    
+        position: absolute;
+                top: 55%;
+          opacity: 1;
+          left: 9%;
+          z-index: 2;
+    }
+    .container h2.git{
+       
+        
+        
+    
+        position: absolute;
+                top: 76%;
+          opacity: 1;
+          left: 9%;
+          z-index: 2;
+    }
+    .container img.overlay-image{
+        position: absolute ;
+      height: 39px;
+      width: 39px;
+        
+        top: 60%;
+        left :2%;
+        opacity: 1;
+        
+    }
+
+    .container img.overlay-image2{
+        position: absolute ;
+      height:42px;
+      width: 42px;
+        
+        top: 80%;
+        left :2%;
+        opacity: 1;
+        
+    }
+    .container img.overlay-image1{
+        position: absolute ;
+      height:39px;
+      width: 39px;
+        
+        top: 40%;
+        left :2%;
+        opacity: 1;
+        
+    }
+  

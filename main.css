@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Brush Script MT', cursive;
+}
+
+div{ position: absolute;}
+#div1 {
+   
+    top: 0;
+    left: 0; 
+    height: 13vh;
+    background-color: #ffff;
+    width: 100%; 
+    box-sizing: border-box; 
+    
+    padding: 20px; 
+    
+}
+.fi-bs-user {
+    font-size: 0.8em;
+    position: relative;
+     left:870px;
+}
+
+ .fi-bs-workflow-alt{
+    font-size: 0.8em;
+    position: relative;
+     left:610px;
+ }
+ .fi-br-house-chimney-blank{
+    font-size: 0.8em;
+    position: relative;
+     left: 305px;
+ }
+ .logo{
+    width: 70px;
+    height: 50px;
+    top: 7px;
+    position: fixed;
+    left :40px;
+  
+ }
+ li {
+    list-style: none;
+}
+ header nav ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+a:hover{
+    border-bottom: 1px solid #fff;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 9px;
+    text-transform: uppercase;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-top: 18px;
+    padding-left: 80PX;
+}
+
+.p{
+    position: relative;
+    top: 30px;
+max-width: 40%;
+justify-content: center;
+font-size: 17px;
+font-family: Baskerville, "Baskerville Old Face"
+
+
+}
+h1{
+    position: relative;
+    top: 40px;
+    font-family: 'Brush Script MT', cursive;
+    
+}
+
+.Mayank1170-button-1:hover {
+    background-position: 100% 0;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+
+.Mayank1170-button-1 {
+    position: relative;
+    top: 20px;
+    width: 180px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family:'Brush Script MT', cursive;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 80px;
+    -o-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    background-image: linear-gradient(to right,
+ #0F1035,
+    #365486,
+   
+#786c7c,
+        
+   
+    #DCF2F1);
+    
+}
+ 
+.image{
+   position: fixed; 
+   top: 60px;
+   left: 500px;
+
+}
+
+
+
+
+
+
